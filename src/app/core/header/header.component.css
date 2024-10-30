@@ -1,0 +1,12 @@
+.custom-header {
+  background-color: #343a40; /* Dark background */
+  padding: 20px 0; /* Vertical padding */
+}
+.custom-header a {
+  color: white; /* White text for links */
+  text-decoration: none; /* Remove underline */
+  margin: 120px; /* Margin between items */
+}
+.custom-header a:hover {
+  color: #007bff; /* Change color on hover */
+}
