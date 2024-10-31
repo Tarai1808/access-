@@ -1,0 +1,10 @@
+.tr,td,th {
+  background-color: cornflowerblue; text-color: white;
+  border: 1px; widght: 2px; text-align: center;
+  border-collapse: collapse;
+  text-align: center;
+  border-color: cornflowerblue;
+}
+.table{
+  justify-content: center;
+}
